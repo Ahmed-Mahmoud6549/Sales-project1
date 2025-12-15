@@ -7,10 +7,7 @@ This project analyzes business data and visualizes insights through interactive 
 It focuses on cleaning, modeling, and visualizing Excel-based data to support data-driven decisions.
 
 ---
-
-## 🔍 Dashboard Preview
-
-## 📊 Power BI Dashboard Preview
+## 📊 Dashboard Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dcc9bd86-4970-445e-81eb-b78fda3c493f" width="48%" />
